@@ -36,6 +36,7 @@
         background-position: center left 16px;
         background-repeat: no-repeat;
         background-size: 40px;
+        transition: background-color 0.3s ease-in-out;
 
         &_flowers {
             background-image: url('/img/flowers.png');

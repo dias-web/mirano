@@ -5,7 +5,11 @@
     &__btn {
     }
 
-    &__box {
+    &__box {  
         display: none;
+        
+        &_open {
+            display: block;
+        }
     }
 }
